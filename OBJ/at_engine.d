@@ -1,0 +1,12 @@
+..\obj\at_engine.o: at_engine.c
+..\obj\at_engine.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\string.h
+..\obj\at_engine.o: debug.h
+..\obj\at_engine.o: config.h
+..\obj\at_engine.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\at_engine.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\at_engine.o: common.h
+..\obj\at_engine.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\at_engine.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\at_engine.o: private.h
+..\obj\at_engine.o: utils.h
+..\obj\at_engine.o: hal.h

@@ -1,0 +1,11 @@
+..\obj\hal.o: hal.c
+..\obj\hal.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\string.h
+..\obj\hal.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\hal.o: private.h
+..\obj\hal.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\hal.o: config.h
+..\obj\hal.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\hal.o: utils.h
+..\obj\hal.o: debug.h
+..\obj\hal.o: hal.h
+..\obj\hal.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdlib.h

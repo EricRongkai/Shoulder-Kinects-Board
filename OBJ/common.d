@@ -1,0 +1,14 @@
+..\obj\common.o: common.c
+..\obj\common.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\string.h
+..\obj\common.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\common.o: debug.h
+..\obj\common.o: config.h
+..\obj\common.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\common.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\common.o: at_engine.h
+..\obj\common.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\common.o: common.h
+..\obj\common.o: E:\KEIL515\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\common.o: private.h
+..\obj\common.o: utils.h
+..\obj\common.o: hal.h
